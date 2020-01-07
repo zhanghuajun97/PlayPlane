@@ -1,0 +1,163 @@
+{
+	"groups": [
+		{
+			"keys": "BluePlane_png,GreenPlane_png,GodPlane_png,JitPlane_png,JpPlane_png,LiPlane_png,LXPlane_png,PaperPlane_01_png,PaperPlane_png,RedPlane_png,ToonPlane_png,XPlane_png,YePlane_png",
+			"name": "Plane"
+		},
+		{
+			"keys": "BeiJi_01_png,BeiJi_02_png,bonus_wav,bullet_02_png,bullet_03_png,bullet_04_png,bullet_mp3,EnemyFire_01_png,EnemyFire_02_png,EnemyFire_03_png",
+			"name": "Bullet"
+		},
+		{
+			"keys": "background_png,btn_finish_png,game_music_mp3,game_over_mp3,gameover_png,bonus_wav,bullet_mp3",
+			"name": "Bgm"
+		}
+	],
+	"resources": [
+		{
+			"url": "config/description.json",
+			"type": "json",
+			"name": "description_json"
+		},
+		{
+			"url": "assets/BluePlane.png",
+			"type": "image",
+			"name": "BluePlane_png"
+		},
+		{
+			"url": "assets/GodPlane.png",
+			"type": "image",
+			"name": "GodPlane_png"
+		},
+		{
+			"url": "assets/GreenPlane.png",
+			"type": "image",
+			"name": "GreenPlane_png"
+		},
+		{
+			"url": "assets/JitPlane.png",
+			"type": "image",
+			"name": "JitPlane_png"
+		},
+		{
+			"url": "assets/JpPlane.png",
+			"type": "image",
+			"name": "JpPlane_png"
+		},
+		{
+			"url": "assets/LiPlane.png",
+			"type": "image",
+			"name": "LiPlane_png"
+		},
+		{
+			"url": "assets/LXPlane.png",
+			"type": "image",
+			"name": "LXPlane_png"
+		},
+		{
+			"url": "assets/PaperPlane.png",
+			"type": "image",
+			"name": "PaperPlane_png"
+		},
+		{
+			"url": "assets/PaperPlane_01.png",
+			"type": "image",
+			"name": "PaperPlane_01_png"
+		},
+		{
+			"url": "assets/RedPlane.png",
+			"type": "image",
+			"name": "RedPlane_png"
+		},
+		{
+			"url": "assets/ToonPlane.png",
+			"type": "image",
+			"name": "ToonPlane_png"
+		},
+		{
+			"url": "assets/XPlane.png",
+			"type": "image",
+			"name": "XPlane_png"
+		},
+		{
+			"url": "assets/YePlane.png",
+			"type": "image",
+			"name": "YePlane_png"
+		},
+		{
+			"url": "assets/BgM/background.png",
+			"type": "image",
+			"name": "background_png"
+		},
+		{
+			"url": "assets/BgM/btn_finish.png",
+			"type": "image",
+			"name": "btn_finish_png"
+		},
+		{
+			"url": "assets/BgM/gameover.png",
+			"type": "image",
+			"name": "gameover_png"
+		},
+		{
+			"url": "assets/BgM/game_music.mp3",
+			"type": "sound",
+			"name": "game_music_mp3"
+		},
+		{
+			"url": "assets/BgM/game_over.mp3",
+			"type": "sound",
+			"name": "game_over_mp3"
+		},
+		{
+			"url": "assets/Bullet/BeiJi_01.png",
+			"type": "image",
+			"name": "BeiJi_01_png"
+		},
+		{
+			"url": "assets/Bullet/BeiJi_02.png",
+			"type": "image",
+			"name": "BeiJi_02_png"
+		},
+		{
+			"url": "assets/Bullet/bonus.wav",
+			"type": "sound",
+			"name": "bonus_wav"
+		},
+		{
+			"url": "assets/Bullet/bullet.mp3",
+			"type": "sound",
+			"name": "bullet_mp3"
+		},
+		{
+			"url": "assets/Bullet/bullet_02.png",
+			"type": "image",
+			"name": "bullet_02_png"
+		},
+		{
+			"url": "assets/Bullet/bullet_03.png",
+			"type": "image",
+			"name": "bullet_03_png"
+		},
+		{
+			"url": "assets/Bullet/bullet_04.png",
+			"type": "image",
+			"name": "bullet_04_png"
+		},
+		{
+			"url": "assets/Bullet/EnemyFire_01.png",
+			"type": "image",
+			"name": "EnemyFire_01_png"
+		},
+		{
+			"url": "assets/Bullet/EnemyFire_02.png",
+			"type": "image",
+			"name": "EnemyFire_02_png"
+		},
+		{
+			"url": "assets/Bullet/EnemyFire_03.png",
+			"type": "image",
+			"name": "EnemyFire_03_png"
+		}
+	]
+}
